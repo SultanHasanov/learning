@@ -99,8 +99,6 @@
 
 Чтобы перейти ко второму файлу, нажмите на кнопку ниже:
 
-<a href="https://github.com/SultanHasanov/third-lesson/blob/main/README.md">
-    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 16px;">Перейти ко второму уроку</button>
-</a>
+[Перейти ко второму уроку](https://github.com/SultanHasanov/third-lesson/blob/main/README.md)
 
 
